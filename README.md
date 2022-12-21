@@ -1,8 +1,8 @@
-README - Requisitos
+<h2>Financial Api</h2>
 
 Aula em: Primeiro projeto com Node.js › Primeiro projeto com Node.js › Conhecendo os requisitos da aplicação
-FinApi - Financeira
-Requisitos
+
+<h3>Requisitos</h3>
 
     Deve ser possível criar umma conta
     Deve ser possível buscar o extrato bancário do cliente
@@ -13,7 +13,7 @@ Requisitos
     Deve ser possível obter dados da conta do cliente
     Deve ser possível deletar uma conta
 
-Regras de negócio
+<h3>Regras de negócio</h3>
 
     Não deve ser possível cadastrar uma conta com CPF já existente
     Não deve ser possível fazer depósito em uma conta não existente
